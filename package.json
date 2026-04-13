@@ -1,0 +1,12 @@
+{
+  "name": "crewai-cowork-demo",
+  "version": "0.1.0",
+  "description": "Demo pipeline using CrewAI/CoWork style orchestration with 4 open-source LLM agents.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
